@@ -1,4 +1,4 @@
-#Python Functions: rom Basic to Advanced
+#Python Functions
 #Introduction: Key concepts
 '''Before writing  a code, It is important to understand the structure of a function:
 1. Definition(def): Tells Python we are creating a new function.
@@ -62,4 +62,5 @@ def calculate_salary(daily_wage, days_worked):
 
 #Usage:
 my_salary = calculate_salary(100, 20)
+
 print(f"Your calculated salary is: ${my_salary}")
